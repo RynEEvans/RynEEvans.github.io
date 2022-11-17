@@ -4,10 +4,16 @@ body
     font-family:Arial, Helvetica, sans-serif;
 }
 
-.assignment 
+.assignments
 {
     display:flex;
-    padding: 10px;
+    flex-wrap: wrap;
+}
+
+.assignment 
+{
+    width: 20%;
+    padding: 20px 10;
     margin: 20px;
     background: #C89866;
     border-radius: 10px;
@@ -19,6 +25,8 @@ body
     margin: 20px;
     border: 3px solid #994C01;
     border-radius: 10px;
+    display: block;
+    margin: auto;
     
 }
 
@@ -32,6 +40,16 @@ body
 h1 
 {
     color: #994C01;
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
+p
+{
     text-align: center;
 }
 
