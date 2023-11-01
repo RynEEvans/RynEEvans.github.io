@@ -23,7 +23,7 @@ a
   padding: 10px;
   margin: 10px;
   background: cyan;
-  border-radius: 50px;
+  border-radius: 0px;
 }
 
 .assign:hover
@@ -32,12 +32,12 @@ a
   padding: 10px;
   margin: 10px;
   background: cyan;
-  border-radius: 0px;
+  border-radius: 50px;
 }
 
 .assign img 
 {
     width: 200px;
     margin: 10px;
-    border: 2px dashed midnightblue; 
+    border: 10px midnightblue; 
 }
