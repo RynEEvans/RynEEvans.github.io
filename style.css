@@ -10,6 +10,11 @@ h1
   text-align: center;
 }
 
+a
+{
+  text-decoration: none;
+  color: midnightblue;
+}
 .assign
 {
   display: flex;
@@ -26,8 +31,3 @@ h1
     border: 2px dotted midnightblue; 
 }
 
-a
-{
-  text-decoration: none;
-  color: midnightblue;
-}
