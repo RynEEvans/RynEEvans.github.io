@@ -1,6 +1,6 @@
 body
 {
-  background: whitesmoke;
+  background: lightslategray;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -21,7 +21,7 @@ a
   padding: 10px;
   margin: 10px;
   background: cyan;
-  border-radius: 20px;
+  border-radius: 50px;
 }
 
 .assign img 
