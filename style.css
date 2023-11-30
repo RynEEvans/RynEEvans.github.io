@@ -32,16 +32,7 @@ a
   border-radius: 0px;
 }
 
-.assign:hover
-{
-  width: 20%
-  box-shadow: 8px 8px blue;
-  display: block;
-  padding: 10px;
-  margin: 10px;
-  background: cyan;
-  border-radius: 50px;
-}
+
 
 .assign img 
 {
