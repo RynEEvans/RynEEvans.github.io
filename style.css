@@ -23,7 +23,7 @@ a
 
 .assign
 {
-  box-shadow: 8px 8px blue;
+  box-shadow: 20px 20px blue;
   display: block;
   padding: 10px;
   margin: 10px;
@@ -31,7 +31,7 @@ a
   border-radius: 0px;
 }
 
-/*
+
 .assign:hover
 {
   width: 20%
@@ -42,7 +42,7 @@ a
   background: cyan;
   border-radius: 50px;
 }
-*/
+
 
 .assign img 
 {
